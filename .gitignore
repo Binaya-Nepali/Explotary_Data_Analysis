@@ -1,0 +1,19 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Data files (optional – depends on project)
+data/
+*.csv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
